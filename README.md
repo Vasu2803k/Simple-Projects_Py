@@ -1,1 +1,1 @@
-# Python_Beginner_Level_Projects
+# Python_Beginner/Intermediate_Level_Projects
